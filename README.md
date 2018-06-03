@@ -1,8 +1,8 @@
 # study-abroad
 
-## Purpose:
+## Purpose
 This resource provides open information for studying abroad. 
 
-## Code of Conduct:
+## Code of Conduct
 
 ## License
