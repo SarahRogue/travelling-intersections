@@ -1,4 +1,4 @@
-# study-abroad
+# Study abroad
 
 ## Purpose
 This resource provides open information for studying abroad. 
