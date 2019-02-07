@@ -1,7 +1,8 @@
 # Open Study abroad
 
 ## Purpose
-This resource provides open information for studying abroad.This resource is developed with the purpose of encouraging "inclusive internationalization".
+This resource provides open information for studying abroad.This resource is developed with the purpose of encouraging "inclusive internationalization". For an introduction to the idea of "inclusive internationalization", please refer to [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html).
+
 
 ## Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/1/0/0/code-of-conduct.html). By participating in this project you agree to abide by its terms.
