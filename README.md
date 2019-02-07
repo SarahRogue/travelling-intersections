@@ -5,7 +5,7 @@ I am working with students and fellow colleagues at Stellenbosch University to d
 I am working open (with students and colleagues), to ensure that we have the buy-in of the respective stakeholders and that the material represents the perspectives of the different stakeholders and campuses.  
 
 ## Background Information
-For an introduction to the idea of "inclusive internationalization", please refer to [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education (EAIE). An important reference point for this project is the [Nelson Mandela Bay Global Dialogue Declaration on the Future of Internationalisation of Higher Education] (https://www.eaie.org/community/projects-advocacy/global-dialogue-declaration.html).
+For an introduction to the idea of "inclusive internationalization", please refer to [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education (EAIE). An important reference point for this project is the [Nelson Mandela Bay Global Dialogue Declaration on the Future of Internationalisation of Higher Education](https://www.eaie.org/community/projects-advocacy/global-dialogue-declaration.html).
 
 
 ## Code of Conduct
