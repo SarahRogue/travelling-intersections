@@ -3,7 +3,7 @@
 ## Vision
 
 ## Background Information
-This resource provides open information for studying abroad.This resource is developed with the purpose of encouraging "inclusive internationalization". For an introduction to the idea of "inclusive internationalization", please refer to [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education.
+For an introduction to the idea of "inclusive internationalization", please refer to [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education.
 
 
 ## Code of Conduct
