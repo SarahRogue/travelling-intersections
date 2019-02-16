@@ -1,6 +1,6 @@
 # Open Study Abroad
 
-## Welcome!
+## Welcome! :earth_africa::rainbow:
 Welcome to the Open Study Abroad repo, and thank you for visiting us. We hope you will have a pleasant and meaningful journey with us... Actually, we need your help. We recognize that we all face different challenges in terms of studying abroad and for resources to be helpful it needs to be inclusive and helpful. My contributing to this resource, you will just do that! 
 
 ## Vision
