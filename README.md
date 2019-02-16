@@ -11,5 +11,3 @@ An important reference point for this project is the [Nelson Mandela Bay Global 
 
 It is important to think about what makes a resource open and inclusive. To help us conceptualize and actualize this, we are underline the importance of intersectionality. For a short introduction to intersectionality see the following [video](https://www.youtube.com/watch?v=lEeP_3vmdBY) by Kat Blaque.  
 
-## Code of Conduct
-Please note that this project is released with a [Contributor Code of Conduct](https://www.contributor-covenant.org/version/1/0/0/code-of-conduct.html). By participating in this project you agree to abide by its terms.
