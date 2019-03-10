@@ -1,3 +1,3 @@
-# Insectionality and Studying Abroad
+# Intersectionality and Studying Abroad
 
-More information to follow
+For a short introduction to intersectionality see the following [video](https://www.youtube.com/watch?v=lEeP_3vmdBY) by Kat Blaque.  
