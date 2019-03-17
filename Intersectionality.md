@@ -4,9 +4,16 @@ For a short introduction to intersectionality see the following [video](https://
 
 ## Defining Intersectionality
 
+More content to come.
+
 ## Activities
+
+More content to come.
 
 ## Resources
 
+More content to come.
+
 ## Further Reading
 
+More content to come.
