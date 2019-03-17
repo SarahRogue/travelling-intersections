@@ -16,4 +16,4 @@ More content to come.
 
 ## Further Reading
 
-Elizabeth Larson, Asha George, Rosemary Morgan, Tonia Poteat; 10 Best resources on… intersectionality with an emphasis on low- and middle-income countries, Health Policy and Planning, Volume 31, Issue 8, 1 October 2016, Pages 964–969,[https://doi.org/10.1093/heapol/czw020] https://doi.org/10.1093/heapol/czw020
+Elizabeth Larson, Asha George, Rosemary Morgan, Tonia Poteat; 10 Best resources on… intersectionality with an emphasis on low- and middle-income countries, Health Policy and Planning, Volume 31, Issue 8, 1 October 2016, Pages 964–969,[https://doi.org/10.1093/heapol/czw020] (https://doi.org/10.1093/heapol/czw020)
