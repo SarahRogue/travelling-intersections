@@ -25,4 +25,4 @@ More content to come.
 
 Intersectionality 101: A Reading List - Blackfeminisms.com (no date). Available at: [https://www.blackfeminisms.com/intersectionality-reading-list/.](https://www.blackfeminisms.com/intersectionality-reading-list/)
 
-Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [0.1093/heapol/czw020](0.1093/heapol/czw020)
+Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [https://academic.oup.com/heapol/article/31/8/964/2198131](0.1093/heapol/czw020)
