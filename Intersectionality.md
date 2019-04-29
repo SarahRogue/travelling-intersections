@@ -23,4 +23,4 @@ More content to come.
 
 Intersectionality 101: A Reading List - Blackfeminisms.com (no date). Available at: [https://www.blackfeminisms.com/intersectionality-reading-list/.](https://www.blackfeminisms.com/intersectionality-reading-list/)
 
-Elizabeth Larson, Asha George, Rosemary Morgan, Tonia Poteat; 10 Best resources on… intersectionality with an emphasis on low- and middle-income countries, Health Policy and Planning, Volume 31, Issue 8, 1 October 2016, Pages 964–969,[https://doi.org/10.1093/heapol/czw020](https://doi.org/10.1093/heapol/czw020)
+Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [0.1093/heapol/czw020](0.1093/heapol/czw020)
