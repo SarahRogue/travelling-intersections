@@ -1,8 +1,10 @@
 # Intersectionality and Studying Abroad
 
-For a short introduction to intersectionality see the following [video](https://www.youtube.com/watch?v=lEeP_3vmdBY) by Kat Blaque.  
+Thinking about intersectionality should not be limited to just one aspect of the study abroad life cycle. That being said, we need to consider how thinking about intersectionality can have a direct impact on our students and how they view their study abroad experiences. For this reason I think it is very important to focus on two stages of the Study Abroad Life Cycle: Pre-departure and return to campus.  With both of these stages, one can implement activities that have a direct impact on students’ personal reflections.  
 
 ## Defining Intersectionality
+
+For a short introduction to intersectionality see the following [video](https://www.youtube.com/watch?v=lEeP_3vmdBY) by Kat Blaque.  
 
 More content to come.
 
