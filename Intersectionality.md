@@ -11,11 +11,13 @@ The above activities are however centered very much around students, and inclusi
 
 ## Thinking about Intersectionality
 
-For a short introduction to intersectionality see the following [video](https://www.youtube.com/watch?v=lEeP_3vmdBY) by Kat Blaque.  
+For a short introduction to intersectionality see the following by Kat Blaque:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lEeP_3vmdBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More content to come.
+Here Kimberlé Crenshaw speaks about the The urgency of Intersectionality:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activities
 
