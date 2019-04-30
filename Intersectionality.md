@@ -11,15 +11,15 @@ Thinking about intersectionality should not be limited to just one aspect of the
 
 ### Focusing on staff and institutional structures
 
-The above activities are however centered very much around students, and inclusive internationalization can’t only be attained by the acts of students - it is very much also an institutional project. That is why there should be an intersectional dialectic (??) between students and international education practitioners. Through their interaction with students, practitioners can identify those things that still fall short in terms of the internationalization processes of the respective institution. And in the process students and practitioners think together. 
+The above activities are however centered very much around students, and inclusive internationalization can’t only be attained by the acts of students - it is very much also an institutional project. That is why there should be an intersectional dialectic (not sure if dialectic is the correct word here) between students and international education practitioners. Through their interaction with students, practitioners can identify those things that still fall short in terms of the internationalization processes of their respective institution and relay the feedback back into the institutions own processes. In the process students and practitioners think together. 
 
 ## Thinking about Intersectionality
 
-### For a short introduction to intersectionality see the following by Kat Blaque:  
+### For a short introduction to intersectionality see the following by Kat Blaque  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lEeP_3vmdBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Kimberlé Crenshaw speaks here about the The urgency of Intersectionality:
+### Kimberlé Crenshaw speaks here about the The urgency of Intersectionality
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
