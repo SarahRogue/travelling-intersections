@@ -7,7 +7,7 @@ For a short introduction to intersectionality see the following video by Kat Bla
 Kimberlé Crenshaw speaks here about the The urgency of Intersectionality:
 \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-\
+
 # Intersectionality and Studying Abroad
 
 > I do think one must acknowledge that studying abroad is in many regards an elitist endeavor. Therefore, bringing intersectionality into play, we question the status quo of studying abroad and internationalization at large. The goal of this questioning is to make it more inclusive, so that the transformative exprience of studying abroad is accessible to all.   
