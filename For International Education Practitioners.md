@@ -18,7 +18,7 @@ Roy, P. (2016) Preparing Underrepresented Students for Ethical Engagement Abroad
 
 ## Presentations at Conferences:
 
-Content to be added.
+Trujillo, S. & Bayman, A.(2018) *Navigating Narration: Exploring Intersectionality and Counter-Stories in Education Abroad*. Available from: [https://www.nafsa.org/uploadedFiles/NAFSA_Dojo/Connect_and_Network/Regions/Region_XII/Districts/Northern/Copy%20of%20Counter-Storytelling%20Presentation.pdf](https://www.nafsa.org/uploadedFiles/NAFSA_Dojo/Connect_and_Network/Regions/Region_XII/Districts/Northern/Copy%20of%20Counter-Storytelling%20Presentation.pdf) 
 
 
 
