@@ -12,7 +12,7 @@ For an introduction to the idea of "inclusive internationalization", please refe
 
 An important reference point for this project is the [Nelson Mandela Bay Global Dialogue Declaration on the Future of Internationalisation of Higher Education](https://www.eaie.org/community/projects-advocacy/global-dialogue-declaration.html). For more information about the declaration please refer to this [article](https://www.universityworldnews.com/post.php?story=20140118132339578)  on University World News. 
 
-## Dialectic between Intersectionality and Inclusive Internationalization
+## Dialectic between Intersectionality and Inclusive Internationalization: "broadening the frame"
 It is important to think about what makes an activity open and inclusive. To help us conceptualize and actualize this, we recognize the importance of intersectionality to better understand the world we live in. In this regard intersectionality is an important analytical/critical tool for us. [See our discussion regarding intersectionality](https://sarahrogue.github.io/travelling-intersections/Intersectionality.html). 
 
 
