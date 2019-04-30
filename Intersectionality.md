@@ -7,7 +7,7 @@
 Thinking about intersectionality should not be limited to just one aspect of the study abroad life cycle. That being said, we need to consider how thinking about intersectionality can have a direct impact on our students and how they view their study abroad experiences. For this reason it is very important to focus on two stages of the Study Abroad Life Cycle: Pre-departure and return to campus.  With both of these stages, one can implement activities that have a direct impact on students’ personal reflections and in so doing hopefully do the following:  
 
 * Stimulate self-reflexivity 
-* Create a social justice awareness with students
+* Create a social justice awareness
 
 ### Focusing on staff and institutional structures
 
@@ -24,10 +24,6 @@ The above activities are however centered very much around students, and inclusi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activities
-
-More content to come.
-
-## Resources
 
 More content to come.
 
