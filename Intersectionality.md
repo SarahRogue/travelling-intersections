@@ -36,7 +36,7 @@ The aim with the following orientation workshop, was to do more then just a pres
 Pre-departure Orientation Workshop Example
 
 ### Reflective Writing
-It is important for students to be able to reflectively recount their experiences. Not just in terms of the practical components of the experience (for example, how to apply for a visa), but also in terms of how the experience has forced them to think differently about the world and themselves. Recounting it, also forces them to see the real value of the experience. Here are some examples:
+It is important for students to be able to reflective on and recount their experiences. Not just in terms of the practical components of the experience (for example, how to apply for a visa), but also in terms of how the experience has forced them to think differently about the world and themselves. Recounting it, also forces them to see the real value of the experience. Here are some examples:
 
 * Blogging Brief
 * Example of Blog Postings
