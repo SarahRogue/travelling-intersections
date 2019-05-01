@@ -20,7 +20,7 @@ tices are not  inclusive  and  leave  out  the  great majority  of students worl
 
 An important reference point for this project is the [Nelson Mandela Bay Global Dialogue Declaration on the Future of Internationalisation of Higher Education](https://www.eaie.org/community/projects-advocacy/global-dialogue-declaration.html). For more information about the declaration please refer to this [article](https://www.universityworldnews.com/post.php?story=20140118132339578)  on University World News. 
 
-With the following tool we can determine what helps making international student mobility inclusive
+With the following tool we can see what helps making international student mobility inclusive:
 [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education (EAIE). *With this tool the focus is very much on inclusive international mobility; inclusive internaional mobility is a component of inclusive internationalization at large.*
 
 
