@@ -33,13 +33,13 @@ The above activities are however centered very much around students, and inclusi
 ### Pre-departure Orientation/Workshops
 The aim with the following orientation workshop, was to do more then just a presentation. Although there is still a presentation, the focus of the workshop is on the activities done by the students.
 
-Pre-departure Orientation Workshop Example
+Pre-departure Orientation Workshop Example (to be added)
 
 ### Reflective Writing
 It is important for students to be able to reflective on and recount their experiences. Not just in terms of the practical components of the experience (for example, how to apply for a visa), but also in terms of how the experience has forced them to think differently about the world and themselves. Recounting it, also forces them to see the real value of the experience. Here are some examples:
 
-* Blogging Brief
-* Example of Blog Postings
+* Blogging Brief (to be added)
+* Example of Blog Postings (to be added)
 * The importance of telling stories:[https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
 
 ## Further Reading
