@@ -13,3 +13,72 @@ body {
 header img {
     height: 30vh;
 }
+
+/* Unset theme settings */
+section {
+  width: unset;
+  float: unset;
+  padding-bottom: unset;
+}
+
+header {
+  width: unset;
+  float: unset;
+  position: unset;
+}
+
+footer {
+  width: unset;
+  float: unset;
+  position: unset;
+  bottom: unset;
+}
+
+:root {
+  --nav-width: 300px;          /* How wide is the navigation bar on the left */
+  --content-width: 900px;      /* How wide is the content area */
+  --padding-top: 50px;
+}
+
+
+body {
+  padding: 0 calc((100vw - var(--content-width)) / 2);
+
+  @media (max-width: 960px) {
+    padding: 0 50px;
+  }
+}
+
+main {
+  margin-left: calc(var(--nav-width) + 40px);
+  padding-top: var(--padding-top);
+
+  @media (max-width: 960px) {
+    border-top: thin solid lightgray;
+    padding-top: calc(var(--padding-top) + 20px);
+    margin-left: unset;
+  }
+}
+
+nav {
+  box-sizing: border-box;
+  padding-top: var(--padding-top);
+
+  @media (min-width: 960px) {
+    position: fixed;
+    width: var(--nav-width);
+    height: 100vh;
+    max-height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+
+    header {
+      flex-grow: 1;
+    }
+
+    footer {
+      padding-bottom: var(--padding-top);
+    }
+  }
+}

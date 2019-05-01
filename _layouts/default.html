@@ -12,35 +12,37 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
+      <nav>
+        <header>
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+          {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-                
-        <p class="view"><a href="{{ "/Intersectionality.html" | absolute_url }}">Thinking about Intersectionality</a></p>      
-     
-        <p class="view"><a href="{{ "/For International Education Practitioners.html" | absolute_url }}">For Practitioners</a></p>
-        
-        <p class="view"><a href="{{ "/CODE_OF_CONDUCT.html" | absolute_url }}">View our Code of Conduct</a></p>
-        
-        <p class="view"><a href="{{ "/LICENSE.html" | absolute_url }}">License</a></p>
-        
-      </header>
-      <section>
+          {% endif %}
+
+          <p class="view"><a href="{{ "/Intersectionality.html" | absolute_url }}">Thinking about Intersectionality</a></p>
+
+          <p class="view"><a href="{{ "/For International Education Practitioners.html" | absolute_url }}">For Practitioners</a></p>
+
+          <p class="view"><a href="{{ "/CODE_OF_CONDUCT.html" | absolute_url }}">View our Code of Conduct</a></p>
+
+          <p class="view"><a href="{{ "/LICENSE.html" | absolute_url }}">License</a></p>
+        </header>
+
+        <footer>
+          {% if site.github.is_project_page %}
+          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          {% endif %}
+          <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
+      </nav>
+
+      <main>
 
       {{ content }}
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
+      </main>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
