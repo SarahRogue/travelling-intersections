@@ -1,6 +1,6 @@
 # For Practitioners
 
-It is important to contextualize what we are trying to achieve here, for that reason please refer to the following writings by other international education practioners grouped under different themes:
+It is important to contextualize what we are trying to achieve here, for that reason please refer to the following writings by other international education practioners grouped under different themes.
 
 ## Becoming an Ally:
 
