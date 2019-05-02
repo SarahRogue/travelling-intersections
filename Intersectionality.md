@@ -32,7 +32,7 @@ With both of these stages, one can implement activities that have a direct impac
 
 ### Focusing on staff and institutional structures
 
-The above activities are however centered very much around students, and inclusive internationalization can’t only be attained by the acts of students - it is very much also an institutional project. That is why there should be an intersectional dialectic (not sure if dialectic is the correct word here) between students and international education practitioners. Through their interaction with students, practitioners can identify those things that still fall short in terms of the internationalization processes of their respective institution and relay the feedback back into the institutions own processes. In the process students and practitioners think together. 
+The above activities are centered very much around students and inclusive internationalization can’t only be attained by the acts of students - it is very much also an institutional project. That is why there should be an intersectional dialectic (not sure if dialectic is the correct word here) between students and international education practitioners. Through their interaction with students, practitioners can identify those things that still fall short in terms of the internationalization processes of their respective institution and relay the feedback back into the institutions own processes. In the process students and practitioners think together. 
 
 ## Activities with Students
 
