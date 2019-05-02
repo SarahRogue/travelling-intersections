@@ -33,13 +33,14 @@ The above activities are however centered very much around students, and inclusi
 ### Pre-departure Orientation/Workshops
 The aim with the following orientation workshop, was to do more then just a presentation. Although there is still a presentation, the focus of the workshop is on the activities done by the students.
 
-Pre-departure Orientation Workshop Example (to be added)
+Pre-departure Orientation Workshop Example: [https://paper.dropbox.com/doc/Study-Abroad-Orientation-Workshop--AcViTJU2INOreFgly6Bu6grbAg-0SXvYXz9CX8cVGgdhL5MC](https://paper.dropbox.com/doc/Study-Abroad-Orientation-Workshop--AcViTJU2INOreFgly6Bu6grbAg-0SXvYXz9CX8cVGgdhL5MC)
 
 ### Reflective Writing
 It is important for students to be able to reflective on and recount their experiences. Not just in terms of the practical components of the experience (for example, how to apply for a visa), but also in terms of how the experience has forced them to think differently about the world and themselves. Recounting it, also forces them to see the real value of the experience. Here are some examples:
 
-* Blogging Brief (to be added)
-* Example of Blog Postings (to be added)
+* Blogging Brief: [https://stellenbosch.everlytic.net/public/messages/view-online/p2DBlW3bGiSqRZn9/N0PlbQr8k3UghVD0](https://stellenbosch.everlytic.net/public/messages/view-online/p2DBlW3bGiSqRZn9/N0PlbQr8k3UghVD0) (The latter brief needs to be adjusted for the future. Stronger writings prompts needs to be added.)
+* A Blog about Education Abroad: [http://blogs.sun.ac.za/summerschoolsblog/](http://blogs.sun.ac.za/summerschoolsblog/) 
+* Example of a Student Blog: [https://bothaabroad.blogspot.com/](https://bothaabroad.blogspot.com/) 
 * The importance of telling stories:[https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
 
 ## Further Reading
