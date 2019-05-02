@@ -42,7 +42,7 @@ It is important for students to be able to reflective on and recount their exper
 The latter brief needs to be adjusted for the future. Stronger writing prompts needs to be added. Using the insights from this [presentation](https://www.nafsa.org/uploadedFiles/NAFSA_Dojo/Connect_and_Network/Regions/Region_XII/Districts/Northern/Copy%20of%20Counter-Storytelling%20Presentation.pdf) can help us with this.
 * [A Blog about Education Abroad](http://blogs.sun.ac.za/summerschoolsblog/) 
 * [Example of a Student Blog](https://bothaabroad.blogspot.com/) 
-* The importance of telling stories[The importance of telling stories](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
+* [The importance of telling stories](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
 
 ## Further Reading
 
