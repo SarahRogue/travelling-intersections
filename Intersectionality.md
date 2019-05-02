@@ -52,6 +52,8 @@ The latter brief needs to be adjusted for the future. Stronger writing prompts n
 
 ## Further Reading
 
+Hankivsky, O. (2014) Intersectionality 101. The Institute for Intersectionality Research & Policy, SFU. Available at: [https://www.researchgate.net/publication/279293665_Intersectionality_101](https://www.researchgate.net/publication/279293665_Intersectionality_101).
+
 Intersectionality 101: A Reading List - Blackfeminisms.com (no date). Available at: [https://www.blackfeminisms.com/intersectionality-reading-list/.](https://www.blackfeminisms.com/intersectionality-reading-list/)
 
 Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [https://academic.oup.com/heapol/article/31/8/964/2198131](https://academic.oup.com/heapol/article/31/8/964/2198131)
