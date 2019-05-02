@@ -40,7 +40,7 @@ It is important for students to be able to reflective on and recount their exper
 
 * [Blogging Brief](https://stellenbosch.everlytic.net/public/messages/view-online/p2DBlW3bGiSqRZn9/N0PlbQr8k3UghVD0) (The latter brief needs to be adjusted for the future. Stronger writings prompts needs to be added.)
 * [A Blog about Education Abroad](http://blogs.sun.ac.za/summerschoolsblog/) 
-* [Example of a Student Blog:](https://bothaabroad.blogspot.com/) 
+* [Example of a Student Blog](https://bothaabroad.blogspot.com/) 
 * The importance of telling stories[The importance of telling stories](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
 
 ## Further Reading
