@@ -52,10 +52,14 @@ The latter brief needs to be adjusted for the future. Stronger writing prompts n
 
 ## Further Reading
 
+de Wit, H. and Jones, E. (2018) ‘Inclusive Internationalization: Improving Access and Equity’, International Higher Education, 94, p. 16. doi: 10.6017/ihe.2018.0.10561.
+
 Hankivsky, O. (2014) Intersectionality 101. The Institute for Intersectionality Research & Policy, SFU. Available at: [https://www.researchgate.net/publication/279293665_Intersectionality_101](https://www.researchgate.net/publication/279293665_Intersectionality_101).
 
 Intersectionality 101: A Reading List - Blackfeminisms.com (no date). Available at: [https://www.blackfeminisms.com/intersectionality-reading-list/.](https://www.blackfeminisms.com/intersectionality-reading-list/)
 
 Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [https://academic.oup.com/heapol/article/31/8/964/2198131](https://academic.oup.com/heapol/article/31/8/964/2198131)
+
+Reframing internationalisation’s values and principles (1 March 2019) University World News. Available at: https://www.universityworldnews.com/post.php?story=20190225085141576 .
 
 Simpson, J. (2009) A Toolkit for Applying  Intersectionality. Canadian Research Institute for the Advancement of Women Available at: [https://www.criaw-icref.ca/sites/criaw/files/Everyone_Belongs_e.pdf](https://www.criaw-icref.ca/sites/criaw/files/Everyone_Belongs_e.pdf)
