@@ -10,7 +10,7 @@ For a short introduction to intersectionality see the following video by Kat Bla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lEeP_3vmdBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Kimberlé Crenshaw speaks here about the The urgency of Intersectionality:
+Kimberlé Crenshaw speaks here about the *Urgency of Intersectionality*:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/akOe5-UsQ2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
