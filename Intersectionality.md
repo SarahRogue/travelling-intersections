@@ -1,5 +1,11 @@
 ## Thinking about Intersectionality
 
+Hankivsky (2014) summarises intersectionality as follows:
+> Intersectionality promotes an understanding of human beings as shaped by the interaction of different social locations (e.g., ‘race’/ethnicity, Indigeneity, gender, class, sexuality, geography, age, disability/ability, migration 
+status, religion). These interactions occur within a context of connected systems and structures of power (e.g., laws, policies, state governments and other political and economic unions, religious institutions, media). Through such processes, interdependent forms of privilege and oppression shaped by colonialism, imperialism, racism, homophobia, ableism and 
+patriarchy are created.
+
+
 For a short introduction to intersectionality see the following video by Kat Blaque:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lEeP_3vmdBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,7 +45,7 @@ The aim with the following orientation workshop, was to do more then just a pres
 It is important for students to be able to reflective on and recount their experiences. Not just in terms of the practical components of the experience (for example, how to apply for a visa), but also in terms of how the experience has forced them to think differently about the world and themselves. Recounting it, also forces them to see the real value of the experience. Here are some examples:
 
 * [Blogging Brief](https://stellenbosch.everlytic.net/public/messages/view-online/p2DBlW3bGiSqRZn9/N0PlbQr8k3UghVD0) 
-The latter brief needs to be adjusted for the future. Stronger writing prompts needs to be added. Using the insights from this [presentation](https://www.nafsa.org/uploadedFiles/NAFSA_Dojo/Connect_and_Network/Regions/Region_XII/Districts/Northern/Copy%20of%20Counter-Storytelling%20Presentation.pdf) can help us with this.
+The latter brief needs to be adjusted for the future. Stronger writing prompts needs to be added. Using the insights from this [presentation](https://www.nafsa.org/uploadedFiles/NAFSA_Dojo/Connect_and_Network/Regions/Region_XII/Districts/Northern/Copy%20of%20Counter-Storytelling%20Presentation.pdf) can help us here.
 * [A Blog about Education Abroad](http://blogs.sun.ac.za/summerschoolsblog/) 
 * [Example of a Student Blog](https://bothaabroad.blogspot.com/) 
 * [The importance of telling stories](https://plainsarahjane.com/2018/12/09/telling-stories-to-travel/)
