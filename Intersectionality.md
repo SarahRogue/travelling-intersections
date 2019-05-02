@@ -16,7 +16,7 @@ Kimberlé Crenshaw speaks here about the *Urgency of Intersectionality*:
 
 # Intersectionality and Studying Abroad
 
-> I do think one must acknowledge that studying abroad is in many regards an elitist endeavor. Therefore, bringing intersectionality into play, we question the status quo of studying abroad and internationalization at large. The goal of this questioning is to make it more inclusive, so that the transformative exprience of studying abroad is accessible to all.   
+> I do think one must acknowledge that studying abroad is in many regards an elitist endeavor. Therefore, bringing intersectionality into play, we question the status quo of studying abroad and internationalization at large. The goal of this questioning is to make it more inclusive, so that the transformative exprience of studying abroad is accessible to all, directly or indirectly.   
 
 ### Focusing on students
 
