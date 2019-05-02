@@ -32,6 +32,7 @@ The above activities are however centered very much around students, and inclusi
 
 ### Pre-departure Orientation/Workshops
 The aim with the following orientation workshop, was to do more then just a presentation. Although there is still a presentation, the focus of the workshop is on the activities done by the students.
+
 [Pre-departure Orientation Workshop Example](https://paper.dropbox.com/doc/Study-Abroad-Orientation-Workshop--AcViTJU2INOreFgly6Bu6grbAg-0SXvYXz9CX8cVGgdhL5MC)
 
 ### Reflective Writing
