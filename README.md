@@ -23,6 +23,10 @@ An important reference point for this project is the [Nelson Mandela Bay Global 
 With the following tool we can see what helps making international student mobility inclusive:
 [The ABC guide to inclusive international mobility for all](https://www.eaie.org/our-resources/library/publication/Tools-Templates/abc-guide-inclusive-international-mobility.html). The latter resource was developed by the European Association for International Education (EAIE). 
 
+Drawing Inspiration from the following organizations:
+* [Diversity Abroad](https://www.diversitynetwork.org/)
+* [Somewhere over the Rainbow](https://sites.google.com/view/sotr) 
+
 
 ## Dialectic between Intersectionality and Inclusive Internationalization: "broadening the frame"
 It is important to think about what makes an activity open and inclusive. To help us conceptualize and actualize this, we recognize the importance of intersectionality to better understand the world we live in. In this regard intersectionality is an important analytical/critical tool for us. [See our discussion regarding intersectionality](https://sarahrogue.github.io/travelling-intersections/Intersectionality.html). 
