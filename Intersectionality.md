@@ -57,3 +57,5 @@ Hankivsky, O. (2014) Intersectionality 101. The Institute for Intersectionality 
 Intersectionality 101: A Reading List - Blackfeminisms.com (no date). Available at: [https://www.blackfeminisms.com/intersectionality-reading-list/.](https://www.blackfeminisms.com/intersectionality-reading-list/)
 
 Larson, E. et al. (2016) ‘10 Best resources on… intersectionality with an emphasis on low- and middle-income countries’, Health Policy and Planning, 31(8), pp. 964–969. doi: [https://academic.oup.com/heapol/article/31/8/964/2198131](https://academic.oup.com/heapol/article/31/8/964/2198131)
+
+Simpson, J. (2009) A Toolkit for Applying  Intersectionality. Canadian Research Institute for the Advancement of Women Available at: [https://www.criaw-icref.ca/sites/criaw/files/Everyone_Belongs_e.pdf](https://www.criaw-icref.ca/sites/criaw/files/Everyone_Belongs_e.pdf)
