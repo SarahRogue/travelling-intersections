@@ -5,7 +5,7 @@ Welcome to the _Travelling Intersections_ website, and thank you for visiting us
 
 ## Mozilla Open Leaders Case Study
 
-This project forms part of the Mozilla Open Leaders programme. Here is my [case study](https://docs.google.com/document/d/1LUeoaQq9e94E4tOGGD3XlIxHNcMeoxC2uq50RTJqrLQ/edit?usp=sharing), which I had to present in our last session. 
+This project forms part of the Mozilla Open Leaders programme. Here is my [case study](https://docs.google.com/document/d/1LUeoaQq9e94E4tOGGD3XlIxHNcMeoxC2uq50RTJqrLQ/edit?usp=sharing), which I had to present in our last session.
 
 ## Vision
 I am working with students and fellow colleagues at Stellenbosch University to develop open and inclusive study abroad resources so that from a international student mobility perspective we can achieve the goal of “inclusive internationalization” and make studying abroad more accessible and inclusive.   I am also hoping to work with colleagues at other partner universities. I am working open (with students and colleagues), to ensure that we have the buy-in of the respective stakeholders and that the material represents the perspectives of the different stakeholders and campuses. 
